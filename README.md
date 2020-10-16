@@ -1,4 +1,9 @@
 # Natours__Advanced-CSS-Course
-This is a project from the Udemy Course: Advanced CSS & SASS by Jonas Schmedtman.
+This is a project from the Udemy Course: Advanced CSS & SASS by Jonas Schmedtman*.
 
-You can check out his course here: https://www.udemy.com/course/advanced-css-and-sass/
+If you want to see this project as it progresses: https://superskiers.github.io/Natours__Advanced-CSS-Course/
+
+
+
+
+*If you want to learn more about Jonas' course you can check it out here: https://www.udemy.com/course/advanced-css-and-sass/
