@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+/* Set the root font-size in the html selector */
+html {
+    font-size: 62.5%;
+    /* 62.5% is equivalent to 16px but allows the user 
+    to change the size based on their speicficiations */
+
+}
+body {
+    box-sizing: border-box;
+}
